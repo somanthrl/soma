@@ -1,0 +1,2 @@
+# soma
+AWS Devops
